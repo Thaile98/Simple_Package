@@ -1,0 +1,12 @@
+{
+    "name": "thailv/simple-package",
+    "description": "ahihi",
+    "authors": [
+        {
+            "name": "ThaiLe",
+            "email": "lethaivp98@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
